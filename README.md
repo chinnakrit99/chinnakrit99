@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=chinnakrit99&color=red)
-"<img width="740" height="740" alt="image" src="https://github.com/user-attachments/assets/1914b9b4-1b86-4088-b6a3-f213961185db" />
+"<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/1914b9b4-1b86-4088-b6a3-f213961185db" />
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Chinnakrit Chaiyason
 =============================================================================================================================================
 
